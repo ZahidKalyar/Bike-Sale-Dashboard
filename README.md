@@ -1,0 +1,1 @@
+Project centered on bike sales metadata using Excel. As the sole analyst, I employed advanced Excel techniques for data cleaning, preprocessing, and creating visualizations. Explored the impact of income, age, and commute on sales. Feel free to clone the repository and open Excel for valuable insights. Contributions are encouraged!
